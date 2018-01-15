@@ -1,0 +1,17 @@
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\phantomjs.exe
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\phantomjs-license.txt
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\oldiOSVersion.txt
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\GetiOSVersion.dll.config
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\GetiOSVersion.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\GetiOSVersion.pdb
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\Ionic.Zip.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\Selenium.Helper.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\WebDriver.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\WebDriver.Support.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\WebDriver.xml
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\bin\Debug\WebDriver.Support.xml
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\obj\Debug\GetiOSVersion.dll
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\obj\Debug\GetiOSVersion.pdb
+C:\Users\Morgan\Documents\Visual Studio 2015\Projects\GetiOSVersion\GetiOSVersion\obj\Debug\GetiOSVersion.csprojResolveAssemblyReference.cache
