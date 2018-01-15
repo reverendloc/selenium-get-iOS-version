@@ -1,0 +1,5 @@
+Written as a C# Visual Studio Unit Test.
+
+Main work left to do:
+
++ Get this running using an smtp backend to send email alerts when a new iOS beta version is available.
