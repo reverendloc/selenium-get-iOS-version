@@ -1,5 +1,4 @@
 Written as a C# Visual Studio Unit Test.
 
-Main work left to do:
-
-+ Get this running using an smtp backend to send email alerts when a new iOS beta version is available.
++ Slack integration requires enabling Incoming Web Hooks in your domain's App Directory
+     More info here: https://get.slack.help/hc/en-us/articles/115005265063-Incoming-WebHooks-for-Slack#set-up-incoming-webhooks
